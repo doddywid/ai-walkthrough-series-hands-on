@@ -1,0 +1,13 @@
+Run a LLM model with Ollama
+1. Install Ollama: https://ollama.com/download
+2. Pull a LLM model
+   # ollama pull llama3.2:1b
+3. Run pulled LLM model
+   # ollama run llama3.2:1b
+
+Interract with LLM model with API
+3. Install Postman: https://www.postman.com/downloads/
+4. Enable Ollama service
+   # ollama serve
+5. Interact with Ollama using API
+   5.1. 
