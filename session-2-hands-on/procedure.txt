@@ -6,8 +6,11 @@ Run a LLM model with Ollama
    # ollama run llama3.2:1b
 
 Interract with LLM model with API
-3. Install Postman: https://www.postman.com/downloads/
-4. Enable Ollama service
+4. Install Postman: https://www.postman.com/downloads/
+5. Enable Ollama service
    # ollama serve
-5. Interact with Ollama using API
-   5.1. 
+6. Interact with Ollama using API
+   - Download ollama-rest-api-collection.json
+   - Import to Postman
+   - Create Postman environment variables
+   - Lets play!
