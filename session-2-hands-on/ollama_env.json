@@ -1,0 +1,27 @@
+{
+	"id": "d8a13d74-69c6-44b6-b2d2-53748982385d",
+	"name": "ollama_env",
+	"values": [
+		{
+			"key": "model",
+			"value": "llama3.2:1b",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "baseUrl",
+			"value": "http://localhost:11434",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "model_small",
+			"value": "all-minilm:latest",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-10-04T06:15:33.538Z",
+	"_postman_exported_using": "Postman/11.7.0"
+}
